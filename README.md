@@ -1,4 +1,3 @@
-# airbnb-data-analysis
 # Airbnb Data Analysis
 
 ## Description
